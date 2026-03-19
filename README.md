@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Krittiyanee Krongsat</h1>
 <h3 align="center">Frontend developer passionate about accessibility and secure web experiences</h3>
 
-- 📫 How to reach me **krittiyanee.kron@gmail.com**
+- 📫 Reach me **krittiyanee.kron@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
