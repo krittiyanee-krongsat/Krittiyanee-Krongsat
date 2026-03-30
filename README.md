@@ -17,3 +17,5 @@
 
 <h3 align="left">My Stats:</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=krittiyanee-krongsat&" alt="krittiyanee-krongsat" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krittiyanee-krongsat&show_icons=true&locale=en&layout=compact" alt="krittiyanee-krongsat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krittiyanee-krongsat&show_icons=true&locale=en" alt="krittiyanee-krongsat" /></p
