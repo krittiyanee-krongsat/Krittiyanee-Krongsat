@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Krittiyanee Krongsat</h1>
-<h3 align="center">Software Engineer | Open to New Opportunities</h3>
+<h3 align="center">Full Stack Developer | Software Engineer | Open to New Opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krittiyanee-krongsat&label=Profile%20views&color=0e75b6&style=flat" alt="krittiyanee-krongsat" /> </p>
 
