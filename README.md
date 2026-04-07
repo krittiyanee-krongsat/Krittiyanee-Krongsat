@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krittiyanee-krongsat&label=Profile%20views&color=0e75b6&style=flat" alt="krittiyanee-krongsat" /> </p>
 
+- 👨‍💻 See my portfolio at [portfolio-krittiyanee](https://portfolio-krittiyanee.vercel.app/)
 - 📫 Reach me **krittiyanee.kron@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
